@@ -1,0 +1,19 @@
+# Standard CA-1M subset used by video_data_verify (CC-BY-NC-ND 4.0).
+# <split> <video_id> <frames>. 15 train captures = 9,940 frames; 2 val captures = 2,131 frames.
+train 42445794 464
+train 42897436 627
+train 42899002 1068
+train 42899490 97
+train 45261169 522
+train 45261265 406
+train 47115195 496
+train 47331893 795
+train 47332397 612
+train 47332769 547
+train 47334039 1460
+train 47334202 761
+train 47334834 903
+train 47430739 763
+train 49739914 419
+val 42898570 996
+val 45662921 1135

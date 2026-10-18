@@ -1,0 +1,3 @@
+# CA-1M test set of video_data_verify (CC-BY-NC-ND 4.0): 2 CA-1M val captures, 2,131 frames, 270 test clips.
+val 42898570 996
+val 45662921 1135
